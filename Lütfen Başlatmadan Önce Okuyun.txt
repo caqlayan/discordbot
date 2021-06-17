@@ -1,0 +1,9 @@
+NACSSHOST.COM INTERNET VE BILISIM HIZMETLERI
+UCRETSIZ DISCORD BOT ALT YAPISI
+
+1.Botu başlatmadan önce lütfen ayarlar.json kısmını kendinize göre ayarlayınız. 
+2.Aksi takdirde bot çalışmayacaktır ve hata alıcaksınız.
+
+Saygılarımızla,
+İyi ve sağlıklı günler dileriz.
+NACSSHOST.COM
